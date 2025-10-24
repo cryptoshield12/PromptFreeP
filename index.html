@@ -3,12 +3,157 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PromptFreeP - เว็บไซต์</title>
+    <title>PromptFreeP - แหล่งรวม Prompt สร้างภาพที่ดีที่สุด</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 </head>
 <body>
-    <h1>ยินดีต้อนรับสู่ PromptFreeP</h1>
-    <p>นี่คือหน้าเริ่มต้นของเว็บไซต์ของคุณ คุณสามารถแก้ไขไฟล์นี้เพื่อเพิ่มเนื้อหาได้</p>
+
+    <!-- 1. Hero Section -->
+    <header class="hero-section">
+        <div class="container">
+            <h1>ค้นหา Prompt สร้างภาพที่ใช่…ในไม่กี่วินาที</h1>
+            <p class="subtext">รวม Prompt คุณภาพสำหรับ Midjourney, DALL·E, Stable Diffusion ฯลฯ</p>
+            <div class="cta-buttons">
+                <a href="#search-area" class="btn btn-primary">
+                    <i class="fas fa-search"></i> เริ่มค้นหา Prompt
+                </a>
+                <a href="#featured-prompts" class="btn btn-secondary">
+                    <i class="fas fa-star"></i> ดู Prompt ยอดนิยม
+                </a>
+            </div>
+            <!-- ภาพประกอบ/Background: แกลเลอรีภาพที่สร้างจาก Prompt -->
+            <div class="hero-gallery">
+                <!-- Placeholder for gallery images -->
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- 2. Search & Prompt Generator Area -->
+        <section id="search-area" class="section search-area">
+            <div class="container">
+                <input type="text" id="search-input" placeholder="ค้นหา: cyberpunk, anime, landscape...">
+                <button id="random-prompt-btn" class="btn btn-icon">
+                    สุ่ม Prompt (Random Prompt) <i class="fas fa-dice"></i>
+                </button>
+            </div>
+        </section>
+
+        <!-- 3. หมวดหมู่ที่แนะนำ (Categories Section) -->
+        <section class="section categories-section">
+            <div class="container">
+                <h2>หมวดหมู่ที่แนะนำ</h2>
+                <div class="category-grid">
+                    <div class="category-card">
+                        <i class="fas fa-palette"></i>
+                        <h3>สไตล์ศิลปะ</h3>
+                        <p>Van Gogh, Anime, Watercolor</p>
+                    </div>
+                    <div class="category-card">
+                        <i class="fas fa-camera"></i>
+                        <h3>ภาพบุคคล</h3>
+                        <p>Portrait, Cinematic, Fashion</p>
+                    </div>
+                    <div class="category-card">
+                        <i class="fas fa-city"></i>
+                        <h3>ภูมิทัศน์</h3>
+                        <p>Landscape, Cyberpunk City</p>
+                    </div>
+                    <div class="category-card">
+                        <i class="fas fa-hat-wizard"></i>
+                        <h3>แฟนตาซี</h3>
+                        <p>Magic, Medieval, Sci-Fi</p>
+                    </div>
+                    <div class="category-card">
+                        <i class="fas fa-paw"></i>
+                        <h3>สัตว์</h3>
+                        <p>Cute Animals, Realistic Animals</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 4. Prompt แนะนำ / Prompt ยอดนิยม (Featured Prompts) -->
+        <section id="featured-prompts" class="section featured-prompts">
+            <div class="container">
+                <h2>Prompt ยอดนิยม</h2>
+                <div class="prompt-grid">
+                    <!-- Placeholder for featured prompt cards -->
+                    <div class="prompt-card">
+                        <div class="prompt-image-placeholder"></div>
+                        <p class="prompt-text">A cinematic photo of a neon-lit Tokyo street, raining, high detail, 8k.</p>
+                        <div class="prompt-actions">
+                            <button class="btn btn-copy"><i class="fas fa-copy"></i> คัดลอก Prompt</button>
+                            <button class="btn btn-detail">รายละเอียดเพิ่มเติม</button>
+                        </div>
+                    </div>
+                    <div class="prompt-card">
+                        <div class="prompt-image-placeholder"></div>
+                        <p class="prompt-text">A watercolor painting of a serene Japanese garden with a small pond and cherry blossoms.</p>
+                        <div class="prompt-actions">
+                            <button class="btn btn-copy"><i class="fas fa-copy"></i> คัดลอก Prompt</button>
+                            <button class="btn btn-detail">รายละเอียดเพิ่มเติม</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 6. จุดขายเว็บไซต์ (Why Choose Us) -->
+        <section class="section value-props-section">
+            <div class="container">
+                <h2>ทำไมต้อง PromptFreeP?</h2>
+                <div class="value-prop-grid">
+                    <div class="value-prop-card">
+                        <i class="fas fa-check-circle"></i>
+                        <h3>Prompt คัดสรรมาแล้ว</h3>
+                    </div>
+                    <div class="value-prop-card">
+                        <i class="fas fa-rocket"></i>
+                        <h3>รองรับหลายแพลตฟอร์ม</h3>
+                    </div>
+                    <div class="value-prop-card">
+                        <i class="fas fa-clipboard"></i>
+                        <h3>คัดลอกง่าย ใช้ได้ทันที</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 8. Call to Action ปิดท้าย -->
+        <section class="section final-cta-section">
+            <div class="container">
+                <h2>พร้อมสร้างภาพสุดอลังการหรือยัง?</h2>
+                <a href="#search-area" class="btn btn-primary btn-large">
+                    <i class="fas fa-magic"></i> เริ่มต้นสร้างภาพของคุณเลย
+                </a>
+                <a href="#featured-prompts" class="btn btn-secondary btn-large">
+                    <i class="fas fa-compass"></i> สำรวจ Prompt ทั้งหมด
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <!-- 9. Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="#">เกี่ยวกับเรา</a> |
+                <a href="#">ติดต่อ</a> |
+                <a href="#">Terms</a> |
+                <a href="#">Privacy</a>
+            </div>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-tiktok"></i></a>
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+            <p>&copy; 2025 PromptFreeP. All rights reserved.</p>
+        </div>
+    </footer>
+
     <script src="script.js"></script>
 </body>
 </html>
