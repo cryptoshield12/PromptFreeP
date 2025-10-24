@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PromptFreeP - ชุดที่ 1: ธรรมชาติและกล้องมืออาชีพ</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+
+    <header class="hero-section small-hero">
+        <div class="container">
+            <a href="index.html" class="back-link"><i class="fas fa-arrow-left"></i> กลับหน้าหลัก</a>
+            <h1>ชุดที่ 1: ธรรมชาติและกล้องมืออาชีพ</h1>
+            <p class="subtext">50 Prompt ภาพถ่ายธรรมชาติแบบสมจริง พร้อมคำสั่งกล้องระดับมืออาชีพ</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="section prompt-list-section">
+            <div class="container">
+                <div id="prompt-list" class="prompt-grid">
+                    <!-- Prompts will be injected here by script.js -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="#">เกี่ยวกับเรา</a> |
+                <a href="#">ติดต่อ</a> |
+                <a href="#">Terms</a> |
+                <a href="#">Privacy</a>
+            </div>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-tiktok"></i></a>
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+            <p>&copy; 2025 PromptFreeP. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // โค้ดสำหรับโหลดและแสดง Prompt จะถูกเพิ่มใน script.js
+        document.addEventListener('DOMContentLoaded', () => {
+            loadPrompts('data/set1_prompts.json', 'prompt-list');
+        });
+    </script>
+</body>
+</html>

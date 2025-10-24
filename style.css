@@ -103,6 +103,23 @@ h2 {
 }
 
 .hero-section .container {
+    /* เพิ่มสไตล์สำหรับหน้า Detail */
+    .small-hero {
+        padding: 50px 0;
+    }
+    .back-link {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        color: var(--color-text-light);
+        text-decoration: none;
+        font-size: 1.1rem;
+        transition: color 0.3s ease;
+    }
+    .back-link:hover {
+        color: var(--color-secondary);
+    }
+}
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -171,6 +188,11 @@ h2 {
 }
 
 .category-card {
+    /* เพิ่มสไตล์สำหรับลิงก์ชุด Prompt */
+    .set-link {
+        text-decoration: none;
+    }
+}
     background-color: #2a2a4a;
     padding: 30px;
     border-radius: 15px;

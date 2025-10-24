@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "prompt": "A breathtaking, hyper-realistic photograph of a lone, ancient redwood tree shrouded in morning mist in a Pacific Northwest forest. Shot on a Sony A7R V with a G Master 24-70mm f/2.8 lens, wide-angle perspective, deep depth of field, natural soft light, cinematic realism, 8k resolution.",
+        "tags": ["Forest", "Redwood", "Mist", "Nature Photography", "Realistic"]
+    },
+    {
+        "id": 2,
+        "prompt": "A stunning, detailed macro photograph of a single dewdrop resting on the vibrant green tip of a fern frond. Shot on a Canon EOS R5 with a RF 100mm f/2.8 Macro lens, extreme close-up, shallow depth of field (bokeh), soft morning light, hyper-realistic texture, studio quality, 8k.",
+        "tags": ["Macro", "Dewdrop", "Fern", "Close-up", "Realistic"]
+    },
+    {
+        "id": 3,
+        "prompt": "A dramatic, long-exposure photograph of a powerful waterfall cascading into a turquoise pool in a volcanic landscape. Shot on a Nikon Z9 with a NIKKOR Z 14-24mm f/2.8 S lens, low angle, silky water effect, golden hour lighting, professional landscape photography, 8k.",
+        "tags": ["Waterfall", "Long Exposure", "Volcanic", "Landscape", "Realistic"]
+    },
+    {
+        "id": 4,
+        "prompt": "A serene, aerial photograph of a winding river cutting through a vast, autumnal tundra, showcasing vibrant reds and yellows. Shot from a drone (Hasselblad sensor equivalent), high altitude, golden ratio composition, clear daylight, ultra-realistic, 8k.",
+        "tags": ["Aerial", "River", "Autumn", "Tundra", "Realistic"]
+    },
+    {
+        "id": 5,
+        "prompt": "A striking, low-light photograph of the Milky Way arching over a jagged mountain peak, with a small tent providing a warm foreground light. Shot on a Sony A7S III with a 16-35mm f/2.8 lens, astrophotography settings, high ISO, deep space detail, cinematic realism, 8k.",
+        "tags": ["Astrophotography", "Mountain", "Milky Way", "Night Sky", "Realistic"]
+    },
+    {
+        "id": 6,
+        "prompt": "A vibrant, sun-drenched photograph of a field of sunflowers stretching to the horizon under a clear blue sky. Shot on a Canon EOS R6 with a RF 70-200mm f/2.8L IS USM lens, compressed perspective, midday light, bright and cheerful color grading, professional nature photography, 8k.",
+        "tags": ["Sunflowers", "Field", "Sunny", "Vibrant", "Realistic"]
+    },
+    {
+        "id": 7,
+        "prompt": "A moody, black and white photograph of a solitary, gnarled oak tree standing on a misty hill at dawn. Shot on a Leica M Monochrom with a 50mm f/0.95 Noctilux lens, high contrast, deep shadows, classic fine art photography, 8k.",
+        "tags": ["Black and White", "Oak Tree", "Misty", "Moody", "Realistic"]
+    },
+    {
+        "id": 8,
+        "prompt": "A detailed, underwater photograph of a vibrant coral reef teeming with colorful tropical fish. Shot on a specialized underwater housing (Nikon Z7 equivalent) with a 15mm fisheye lens, clear blue water, natural light penetration, ultra-realistic marine life, 8k.",
+        "tags": ["Underwater", "Coral Reef", "Tropical Fish", "Marine Life", "Realistic"]
+    },
+    {
+        "id": 9,
+        "prompt": "A dramatic, telephoto photograph of a herd of wild elephants silhouetted against a fiery orange and purple sunset on the African savanna. Shot on a Canon EOS R3 with a 600mm f/4L IS III USM lens, extreme compression, rim lighting, wildlife photography, 8k.",
+        "tags": ["Wildlife", "Elephant", "Sunset", "Savanna", "Realistic"]
+    },
+    {
+        "id": 10,
+        "prompt": "A tranquil, high-resolution photograph of a still, glass-like lake perfectly reflecting the snow-capped mountains surrounding it. Shot on a Fujifilm GFX 100S with a GF 32-64mm f/4 R LM WR lens, perfect symmetry, blue hour, professional landscape, 8k.",
+        "tags": ["Lake", "Reflection", "Mountain", "Tranquil", "Realistic"]
+    },
+    {
+        "id": 11,
+        "prompt": "A striking, close-up photograph of the intricate patterns and colors of a monarch butterfly resting on a purple thistle flower. Shot on a Sony A1 with a 90mm f/2.8 Macro lens, extreme detail, soft natural light, shallow depth of field, wildlife macro, 8k.",
+        "tags": ["Butterfly", "Macro", "Flower", "Close-up", "Realistic"]
+    },
+    {
+        "id": 12,
+        "prompt": "A gritty, cinematic photograph of a powerful lightning storm illuminating a vast, empty desert landscape at night. Shot on a Nikon D850 with a 20mm f/1.8 lens, long exposure, high contrast, dramatic atmosphere, 8k.",
+        "tags": ["Storm", "Lightning", "Desert", "Night", "Realistic"]
+    },
+    {
+        "id": 13,
+        "prompt": "A peaceful, wide-angle photograph of a dense bamboo forest with shafts of sunlight piercing through the canopy. Shot on a Canon EOS 5D Mark IV with a 35mm f/1.4L II USM lens, vertical lines, soft green tones, forest photography, 8k.",
+        "tags": ["Bamboo", "Forest", "Sunlight", "Peaceful", "Realistic"]
+    },
+    {
+        "id": 14,
+        "prompt": "A raw, documentary-style photograph of a grizzly bear fishing for salmon in a fast-flowing Alaskan river. Shot on a high-speed camera (Sony A9 equivalent) with a 400mm f/2.8 lens, action shot, water splash, natural light, wildlife in action, 8k.",
+        "tags": ["Wildlife", "Bear", "Fishing", "Action", "Realistic"]
+    },
+    {
+        "id": 15,
+        "prompt": "A vibrant, detailed photograph of a cluster of bioluminescent mushrooms glowing in the dark undergrowth of a tropical rainforest. Shot on a micro four-thirds camera (Olympus OM-D E-M1 Mark III equivalent) with a 60mm macro lens, long exposure, deep jungle atmosphere, 8k.",
+        "tags": ["Mushroom", "Bioluminescent", "Rainforest", "Night", "Realistic"]
+    },
+    {
+        "id": 16,
+        "prompt": "A minimalist, high-key photograph of a single, perfect white rose against a pure white background. Shot on a medium format camera (Phase One XF equivalent) with a 120mm macro lens, studio lighting, clean and crisp, product photography style, 8k.",
+        "tags": ["Minimalist", "Rose", "Flower", "High Key", "Realistic"]
+    },
+    {
+        "id": 17,
+        "prompt": "A dramatic, wide-angle shot of a powerful ocean wave crashing against a rugged cliff face during a storm. Shot on a Canon EOS R5 with a 16-35mm f/4L IS USM lens, fast shutter speed to freeze motion, moody blue tones, sea spray, 8k.",
+        "tags": ["Ocean", "Wave", "Storm", "Cliff", "Realistic"]
+    },
+    {
+        "id": 18,
+        "prompt": "A peaceful, overhead photograph of a flock of flamingos wading in a shallow, pink salt lake. Shot from a low-flying helicopter (DJI Mavic 3 equivalent), perfect symmetry, soft daylight, nature aerial, 8k.",
+        "tags": ["Flamingo", "Aerial", "Lake", "Pink", "Realistic"]
+    },
+    {
+        "id": 19,
+        "prompt": "A detailed, close-up photograph of the cracked, dry earth in a drought-stricken area, showing intricate textures and patterns. Shot on a Sony A7R IV with a 50mm f/1.8 lens, low perspective, harsh sunlight, documentary style, 8k.",
+        "tags": ["Desert", "Drought", "Texture", "Close-up", "Realistic"]
+    },
+    {
+        "id": 20,
+        "prompt": "A beautiful, ethereal photograph of a rainbow arcing over a lush, green valley after a rain shower. Shot on a Nikon Z7 II with a 70-200mm f/2.8 lens, mid-distance, vibrant colors, landscape photography, 8k.",
+        "tags": ["Rainbow", "Valley", "Rain", "Ethereal", "Realistic"]
+    },
+    {
+        "id": 21,
+        "prompt": "A stunning, telephoto shot of a snow leopard camouflaged perfectly within a rocky, snowy mountain environment. Shot on a Canon EOS R5 with an 800mm f/5.6 lens, extreme compression, natural camouflage, professional wildlife photography, 8k.",
+        "tags": ["Wildlife", "Snow Leopard", "Mountain", "Camouflage", "Realistic"]
+    },
+    {
+        "id": 22,
+        "prompt": "A serene, wide-angle photograph of a misty cypress swamp at sunrise, with Spanish moss hanging from the trees. Shot on a medium format camera (Hasselblad X1D equivalent) with a 45mm lens, soft morning light, reflection on the water, atmospheric, 8k.",
+        "tags": ["Swamp", "Cypress", "Sunrise", "Misty", "Realistic"]
+    },
+    {
+        "id": 23,
+        "prompt": "A dramatic, high-contrast photograph of a massive iceberg floating in the deep blue Arctic ocean. Shot on a Sony A7R V with a 16-35mm f/4 lens, wide-angle, cold blue tones, sharp detail, adventure photography, 8k.",
+        "tags": ["Iceberg", "Arctic", "Ocean", "Cold", "Realistic"]
+    },
+    {
+        "id": 24,
+        "prompt": "A vibrant, close-up photograph of a chameleon changing color on a branch, focusing on the texture of its skin. Shot on a Nikon Z6 II with a 105mm f/2.8 Macro lens, shallow depth of field, bright tropical light, wildlife macro, 8k.",
+        "tags": ["Chameleon", "Macro", "Reptile", "Vibrant", "Realistic"]
+    },
+    {
+        "id": 25,
+        "prompt": "A peaceful, long-exposure photograph of a forest stream flowing over moss-covered rocks, creating a smooth, dreamy effect. Shot on a Canon EOS R with a 24-105mm f/4L IS USM lens, tripod-mounted, soft diffused light, nature landscape, 8k.",
+        "tags": ["Stream", "Forest", "Long Exposure", "Peaceful", "Realistic"]
+    },
+    {
+        "id": 26,
+        "prompt": "A powerful, cinematic photograph of a volcanic eruption at night, with bright red lava flowing down the side of the mountain. Shot on a high-end DSLR (Nikon D6 equivalent) with a 70-200mm f/2.8 lens, high contrast, extreme heat haze, dramatic lighting, 8k.",
+        "tags": ["Volcano", "Lava", "Night", "Dramatic", "Realistic"]
+    },
+    {
+        "id": 27,
+        "prompt": "A beautiful, wide-angle photograph of a field of lavender in Provence at sunset, with a subtle golden glow. Shot on a Canon EOS R5 with a 35mm f/1.8 lens, low perspective, golden hour light, vibrant purple and gold colors, 8k.",
+        "tags": ["Lavender", "Sunset", "Field", "Provence", "Realistic"]
+    },
+    {
+        "id": 28,
+        "prompt": "A detailed, high-resolution photograph of the intricate structure of a snowflake resting on a dark woolen glove. Shot on a specialized macro setup (Canon MP-E 65mm Macro lens equivalent), extreme magnification, studio flash, crystal clear detail, 8k.",
+        "tags": ["Snowflake", "Macro", "Winter", "Detail", "Realistic"]
+    },
+    {
+        "id": 29,
+        "prompt": "A moody, wide-angle photograph of a dense fog rolling over a dramatic coastal landscape with a lighthouse in the distance. Shot on a Sony A7R III with a 20mm f/1.8 lens, atmospheric, high contrast, cinematic blue tones, 8k.",
+        "tags": ["Fog", "Coast", "Lighthouse", "Moody", "Realistic"]
+    },
+    {
+        "id": 30,
+        "prompt": "A vibrant, close-up photograph of a hummingbird hovering perfectly still next to a bright red flower, wings blurred with motion. Shot on a high-speed camera (Nikon Z9 equivalent) with a 300mm f/4 lens, fast shutter speed, bright daylight, wildlife in action, 8k.",
+        "tags": ["Hummingbird", "Action", "Flower", "Wildlife", "Realistic"]
+    },
+    {
+        "id": 31,
+        "prompt": "A peaceful, wide-angle photograph of a desert oasis with palm trees and a clear pool of water, under a midday sun. Shot on a Fujifilm GFX 50S II with a GF 23mm f/4 R LM WR lens, high dynamic range, clear blue sky, landscape, 8k.",
+        "tags": ["Oasis", "Desert", "Palm Trees", "Peaceful", "Realistic"]
+    },
+    {
+        "id": 32,
+        "prompt": "A dramatic, telephoto photograph of a pride of lions resting on a kopje (rocky outcrop) at dusk on the African savanna. Shot on a Canon EOS R3 with a 500mm f/4 lens, soft twilight light, deep shadows, professional wildlife, 8k.",
+        "tags": ["Lion", "Wildlife", "Dusk", "Savanna", "Realistic"]
+    },
+    {
+        "id": 33,
+        "prompt": "A stunning, high-resolution photograph of the Northern Lights (Aurora Borealis) dancing in vibrant green and purple over a frozen landscape. Shot on a Sony A7S III with a 14mm f/1.8 lens, long exposure, deep space detail, astrophotography, 8k.",
+        "tags": ["Aurora", "Northern Lights", "Frozen", "Night Sky", "Realistic"]
+    },
+    {
+        "id": 34,
+        "prompt": "A detailed, macro photograph of a ladybug crawling on a blade of grass, with the sun setting in the blurred background. Shot on a Nikon Z6 with a 105mm f/2.8 Macro lens, extreme shallow depth of field, golden hour light, nature macro, 8k.",
+        "tags": ["Ladybug", "Macro", "Grass", "Sunset", "Realistic"]
+    },
+    {
+        "id": 35,
+        "prompt": "A tranquil, wide-angle photograph of a misty mountain range at blue hour, with layers of peaks fading into the distance. Shot on a Canon EOS R6 with a 24-70mm f/2.8L IS USM lens, cool blue tones, soft light, layered composition, 8k.",
+        "tags": ["Mountain", "Misty", "Blue Hour", "Tranquil", "Realistic"]
+    },
+    {
+        "id": 36,
+        "prompt": "A powerful, cinematic photograph of a massive dust storm (Haboob) approaching a small, isolated farm in the American Midwest. Shot on a Sony A7R IV with a 70-200mm f/4 lens, dramatic lighting, high contrast, documentary style, 8k.",
+        "tags": ["Storm", "Dust", "Farm", "Dramatic", "Realistic"]
+    },
+    {
+        "id": 37,
+        "prompt": "A vibrant, close-up photograph of a colorful poison dart frog perched on a wet, glossy leaf in a tropical environment. Shot on a Nikon D850 with a 60mm f/2.8 Macro lens, sharp focus on the frog's skin, diffused natural light, wildlife macro, 8k.",
+        "tags": ["Frog", "Tropical", "Macro", "Vibrant", "Realistic"]
+    },
+    {
+        "id": 38,
+        "prompt": "A peaceful, long-exposure photograph of a glassy river reflecting the autumn foliage on its banks, creating a painterly effect. Shot on a Canon EOS 5DS R with a 50mm f/1.2L USM lens, perfect reflection, soft light, nature landscape, 8k.",
+        "tags": ["River", "Autumn", "Reflection", "Long Exposure", "Realistic"]
+    },
+    {
+        "id": 39,
+        "prompt": "A striking, low-angle photograph of a field of giant saguaro cacti silhouetted against a vibrant orange and pink sunset in the Sonoran Desert. Shot on a Sony A7 III with a 24mm f/1.4 lens, dramatic sky, warm light, desert landscape, 8k.",
+        "tags": ["Cactus", "Desert", "Sunset", "Silhouette", "Realistic"]
+    },
+    {
+        "id": 40,
+        "prompt": "A detailed, high-resolution photograph of the intricate structure of a spider web covered in morning dew, catching the first rays of sunlight. Shot on a Fujifilm X-T4 with an 80mm f/2.8 Macro lens, extreme detail, backlighting, nature macro, 8k.",
+        "tags": ["Spider Web", "Dew", "Macro", "Sunrise", "Realistic"]
+    },
+    {
+        "id": 41,
+        "prompt": "A tranquil, wide-angle photograph of a remote, pristine beach with white sand and clear turquoise water, no human presence. Shot on a Canon EOS R5 with a 16-35mm f/2.8L III USM lens, bright daylight, high dynamic range, tropical landscape, 8k.",
+        "tags": ["Beach", "Tropical", "Pristine", "Ocean", "Realistic"]
+    },
+    {
+        "id": 42,
+        "prompt": "A dramatic, telephoto photograph of a pack of wolves howling at a full moon in a snowy, boreal forest. Shot on a Nikon Z9 with a 400mm f/2.8 lens, high ISO, deep blue twilight, professional wildlife, 8k.",
+        "tags": ["Wolf", "Wildlife", "Snow", "Night", "Realistic"]
+    },
+    {
+        "id": 43,
+        "prompt": "A beautiful, ethereal photograph of a field of wild poppies swaying gently in the wind at sunset. Shot on a Sony A7R IV with a 85mm f/1.4 lens, shallow depth of field, soft golden light, vibrant red colors, 8k.",
+        "tags": ["Poppy", "Flower", "Sunset", "Field", "Realistic"]
+    },
+    {
+        "id": 44,
+        "prompt": "A detailed, close-up photograph of the texture of tree bark, showing moss and lichen growth. Shot on a Canon EOS 5D Mark IV with a 100mm f/2.8 Macro lens, side lighting to enhance texture, high detail, nature macro, 8k.",
+        "tags": ["Tree Bark", "Moss", "Texture", "Close-up", "Realistic"]
+    },
+    {
+        "id": 45,
+        "prompt": "A moody, wide-angle photograph of a dramatic, swirling cloud formation (supercell) over an open field just before a storm. Shot on a Nikon D850 with a 14-24mm f/2.8 lens, high contrast, dark and foreboding atmosphere, 8k.",
+        "tags": ["Clouds", "Storm", "Weather", "Dramatic", "Realistic"]
+    },
+    {
+        "id": 46,
+        "prompt": "A tranquil, high-resolution photograph of a Japanese Zen garden covered in a light dusting of snow, with raked gravel patterns visible. Shot on a Fujifilm GFX 100S with a 50mm f/3.5 lens, minimalist composition, soft diffused light, fine art landscape, 8k.",
+        "tags": ["Zen Garden", "Snow", "Minimalist", "Tranquil", "Realistic"]
+    },
+    {
+        "id": 47,
+        "prompt": "A vibrant, aerial photograph of a large, complex river delta branching out into the ocean, showcasing the natural patterns of sediment. Shot from a satellite equivalent (high-resolution aerial), abstract nature, bright daylight, ultra-realistic, 8k.",
+        "tags": ["Aerial", "River Delta", "Abstract", "Vibrant", "Realistic"]
+    },
+    {
+        "id": 48,
+        "prompt": "A dramatic, low-angle photograph of a massive, ancient baobab tree silhouetted against a deep red and orange sunset in Madagascar. Shot on a Canon EOS R3 with a 24mm f/1.4 lens, wide-angle, strong silhouette, African landscape, 8k.",
+        "tags": ["Baobab", "Sunset", "Silhouette", "Africa", "Realistic"]
+    },
+    {
+        "id": 49,
+        "prompt": "A peaceful, close-up photograph of a tiny, brightly colored tree frog sitting on a mushroom cap after a rain shower. Shot on a Sony A7R V with a 90mm f/2.8 Macro lens, shallow depth of field, wet texture, soft diffused light, 8k.",
+        "tags": ["Tree Frog", "Mushroom", "Macro", "Rain", "Realistic"]
+    },
+    {
+        "id": 50,
+        "prompt": "A striking, wide-angle photograph of a geothermal area with vibrant turquoise hot springs and steam rising against a rugged mountain background. Shot on a Nikon Z7 II with a 14-30mm f/4 S lens, high contrast, steam effect, professional landscape, 8k.",
+        "tags": ["Geothermal", "Hot Spring", "Steam", "Mountain", "Realistic"]
+    }
+]
