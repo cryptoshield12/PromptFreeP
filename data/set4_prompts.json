@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1,
+        "prompt": "A dynamic, energetic photograph of a fit young woman athlete in her mid-20s with a toned physique, wearing a neutral-toned sports bra and high-waisted leggings. Her hair is in a tight ponytail, and her expression is focused and determined. The setting is an outdoor running path during sunrise, with golden light shining brightly behind her, creating a powerful rim light. Captured from a slightly low angle as she performs a dynamic running start pose. Professional camera mode: Canon EOS R5, RF 70-200mm f/2.8L IS USM at 100mm, ISO 100, 1/1000s, f/4.0, high-speed sync, golden hour color grading, empowering fitness vibe. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Fitness", "Sunrise", "Dynamic", "Athlete", "Motivation"]
+    },
+    {
+        "id": 2,
+        "prompt": "A medium close-up shot of the fit woman athlete's determined face, with sweat glistening on her forehead. The golden sunrise light highlights the contours of her face and the focus in her eyes. The background is a soft, warm blur of the outdoor environment. Shot at eye level. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 200, 1/800s, f/1.8, sharp focus on the eyes, shallow depth of field, determined expression. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Close-up", "Determined", "Sweat", "Golden Light", "Focus"]
+    },
+    {
+        "id": 3,
+        "prompt": "A full-body shot of the athlete performing a powerful, deep lunge stretch on the open path. The low angle emphasizes her strength and the expansive morning sky. The sunrise colors are vibrant in the background. Shot from a low angle. Professional camera mode: Nikon Z9, NIKKOR Z 35mm f/1.8 S, ISO 100, 1/500s, f/5.6, full body, powerful pose, vibrant colors. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Full Body", "Lunge", "Strength", "Vibrant", "Outdoor"]
+    },
+    {
+        "id": 4,
+        "prompt": "A shot emphasizing the texture of the athlete's neutral-toned sports bra and the toned muscles of her back and shoulders as she performs a pull-up on a simple outdoor structure. The sunrise light creates a strong rim light. Shot from a low angle, focusing on the back. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 200, 1/1000s, f/2.0, focus on muscle definition, strong rim light, texture. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Muscle", "Texture", "Pull-up", "Rim Light", "Strength"]
+    },
+    {
+        "id": 5,
+        "prompt": "A candid shot of the athlete taking a quick, deep breath after a sprint, hands on her knees, the golden light of the sunrise casting long shadows. Her ponytail is slightly messy. Shot at eye level, capturing the effort. Professional camera mode: Sony A7 IV, FE 24-70mm f/2.8 GM at 50mm, ISO 400, 1/400s, f/2.8, candid moment, long shadows, effort. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Candid", "Breathing", "Effort", "Long Shadows", "Post-Workout"]
+    },
+    {
+        "id": 6,
+        "prompt": "A wide shot capturing the athlete running towards the camera on the open path, with the vast, golden-lit landscape stretching behind her. The motion is sharp, conveying speed and energy. Shot at eye level, wide perspective. Professional camera mode: Nikon Z7 II, NIKKOR Z 24mm f/1.8 S, ISO 100, 1/1600s, f/5.6, sharp motion, speed, expansive landscape. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Running", "Speed", "Wide Shot", "Expansive", "Energy"]
+    },
+    {
+        "id": 7,
+        "prompt": "A low-angle shot of the athlete jumping high in the air, arms extended, silhouetted against the bright, colorful sunrise sky. The pose is one of triumph and empowerment. Shot from a very low angle. Professional camera mode: Canon EOS R6, RF 35mm f/1.8 Macro IS STM, ISO 200, 1/2000s, f/4.0, silhouette, triumphant jump, empowering. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Jumping", "Silhouette", "Empowering", "Triumph", "Sunrise Sky"]
+    },
+    {
+        "id": 8,
+        "prompt": "A close-up of the athlete's hands gripping a piece of simple outdoor gym equipment (e.g., a bar), with veins slightly visible, emphasizing raw strength. The background is a warm blur. Shot at a tight close-up. Professional camera mode: Sony A7R V, FE 90mm f/2.8 Macro G OSS, ISO 100, 1/1000s, f/3.5, macro detail, raw strength, focus on hands. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Hands", "Grip", "Raw Strength", "Macro", "Detail"]
+    },
+    {
+        "id": 9,
+        "prompt": "A shot capturing the athlete's profile as she performs a yoga warrior pose, facing the rising sun. Her toned physique and the golden light create a serene yet powerful image. Shot at eye level, profile view. Professional camera mode: Nikon Z9, NIKKOR Z 85mm f/1.2 S, ISO 100, 1/500s, f/2.0, profile, warrior pose, serene power. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Yoga", "Profile", "Serene", "Power", "Golden Light"]
+    },
+    {
+        "id": 10,
+        "prompt": "A candid shot of the athlete taking a moment to hydrate, drinking from a simple, unbranded water bottle, with a satisfied expression. The sunrise light is soft and even. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 200, 1/400s, f/1.4, candid, hydration, satisfied expression. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Hydration", "Water Bottle", "Satisfied", "Candid", "Medium Close-up"]
+    },
+    {
+        "id": 11,
+        "prompt": "A shot emphasizing the motion blur of the athlete's legs as she sprints past the camera, with her upper body remaining sharp and focused. The background is a blur of the path and the rising sun. Shot at a low angle, panning technique. Professional camera mode: Sony A1, FE 24-70mm f/2.8 GM II at 35mm, ISO 400, 1/60s, f/8.0, panning shot, motion blur, speed. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Motion Blur", "Sprinting", "Speed", "Pannning", "Dynamic"]
+    },
+    {
+        "id": 12,
+        "prompt": "A portrait of the athlete looking directly at the camera with a fierce, determined gaze, her ponytail slightly wind-blown. The golden light creates a beautiful glow around her. Shot at eye level, close-up. Professional camera mode: Nikon Z7 II, NIKKOR Z 50mm f/1.2 S, ISO 100, 1/500s, f/1.8, fierce gaze, portrait, wind-blown hair. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Fierce", "Portrait", "Determined", "Close-up", "Glow"]
+    },
+    {
+        "id": 13,
+        "prompt": "A shot capturing the athlete's shadow stretching long and dramatic on the running path as she performs a high-intensity jump. The low angle of the sun emphasizes the shadow. Shot at eye level, focusing on the shadow. Professional camera mode: Canon EOS R6, RF 24mm f/1.8 Macro IS STM, ISO 100, 1/1000s, f/5.6, long shadow, dramatic, high intensity. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Shadow", "Dramatic", "High Intensity", "Jumping", "Low Sun"]
+    },
+    {
+        "id": 14,
+        "prompt": "A wide shot of the athlete standing on a small hill overlooking the landscape, arms raised in a gesture of achievement and freedom, silhouetted against the bright sunrise. Shot from a low angle, wide perspective. Professional camera mode: Sony A7R V, FE 16-35mm f/2.8 GM at 16mm, ISO 100, 1/500s, f/8.0, achievement, freedom, wide landscape. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Achievement", "Freedom", "Wide Shot", "Silhouette", "Landscape"]
+    },
+    {
+        "id": 15,
+        "prompt": "A close-up of the athlete's feet in simple, unbranded running shoes, planted firmly on the path, ready for a sprint. The golden light illuminates the ground. Shot from a very low angle, focusing on the feet. Professional camera mode: Nikon Z9, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/800s, f/4.0, focus on shoes, ready stance, detail. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Feet", "Running Shoes", "Ready Stance", "Detail", "Low Angle"]
+    },
+    {
+        "id": 16,
+        "prompt": "A shot emphasizing the athlete's toned core and abdominal muscles as she performs a challenging plank variation. The light is even and highlights muscle definition. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 200, 1/500s, f/2.8, muscle definition, core strength, plank. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Core Strength", "Plank", "Muscle Definition", "Toned", "Medium Close-up"]
+    },
+    {
+        "id": 17,
+        "prompt": "A candid shot of the athlete smiling widely, head tilted back, enjoying the fresh morning air and the workout. Her expression is one of pure joy and vitality. Shot at eye level, medium close-up. Professional camera mode: Sony A7 IV, FE 85mm f/1.8, ISO 400, 1/500s, f/2.0, pure joy, vitality, candid smile. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Joy", "Vitality", "Smiling", "Candid", "Morning Air"]
+    },
+    {
+        "id": 18,
+        "prompt": "A shot capturing the athlete's profile as she performs a powerful, controlled push-up, with the golden sunrise light illuminating the ground beneath her. Shot from a low angle, profile view. Professional camera mode: Nikon Z7 II, NIKKOR Z 35mm f/1.8 S, ISO 100, 1/800s, f/4.0, powerful push-up, controlled movement, low angle profile. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Push-up", "Controlled", "Power", "Profile", "Action"]
+    },
+    {
+        "id": 19,
+        "prompt": "A wide shot of the athlete finishing a set of burpees, hands raised in the air, a cloud of dust or mist rising slightly from the ground. The sunrise light is dramatic. Shot at eye level, wide perspective. Professional camera mode: Canon EOS R6, RF 24-70mm f/2.8L IS USM at 24mm, ISO 400, 1/1000s, f/5.6, burpees, dramatic light, wide shot, intense. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Burpees", "Intense", "Dramatic Light", "Wide Shot", "Finishing"]
+    },
+    {
+        "id": 20,
+        "prompt": "A close-up of the athlete's hand reaching out to touch the first ray of golden sunlight breaking over the horizon, a symbolic gesture of hope and new beginnings. Shot at a tight close-up, focusing on the hand and sun. Professional camera mode: Sony A7R V, FE 135mm f/1.8 GM, ISO 100, 1/2000s, f/2.8, symbolic, hope, new beginnings, golden light. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Symbolic", "Hope", "New Beginnings", "Close-up", "Golden Light"]
+    },
+    {
+        "id": 21,
+        "prompt": "A shot emphasizing the athlete's strong, determined legs as she climbs a set of outdoor stairs or bleachers, with the sunrise light casting a warm glow. Shot from a low angle, focusing on the legs. Professional camera mode: Nikon Z9, NIKKOR Z 50mm f/1.2 S, ISO 200, 1/500s, f/2.0, strong legs, climbing, warm glow, low angle. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Strong Legs", "Climbing", "Warm Glow", "Determination", "Action"]
+    },
+    {
+        "id": 22,
+        "prompt": "A candid shot of the athlete wiping sweat from her brow with the back of her hand, a look of exhaustion mixed with satisfaction. The sunrise light is soft and even. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 400, 1/500s, f/1.4, exhaustion, satisfaction, candid, sweat. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Exhaustion", "Satisfaction", "Wiping Sweat", "Candid", "Medium Close-up"]
+    },
+    {
+        "id": 23,
+        "prompt": "A wide shot of the athlete performing a complex plyometric jump (e.g., box jump) against the backdrop of the expansive sunrise sky and open landscape. Shot at eye level, wide perspective. Professional camera mode: Sony A7 IV, FE 16-35mm f/2.8 GM at 24mm, ISO 100, 1/1600s, f/8.0, plyometric jump, complex action, expansive sky. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Plyometric", "Jump", "Complex Action", "Wide Shot", "Expansive Sky"]
+    },
+    {
+        "id": 24,
+        "prompt": "A shot emphasizing the texture of the athlete's sports bra and the subtle sheen of sweat on her skin, with the golden light creating a beautiful highlight. Shot at a tight close-up, focusing on the upper body. Professional camera mode: Nikon Z7 II, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/800s, f/4.0, texture, sweat sheen, golden light highlight. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Texture", "Sweat", "Highlight", "Close-up", "Toned"]
+    },
+    {
+        "id": 25,
+        "prompt": "A creative shot using the reflection of the athlete running in a small puddle or wet patch on the path, with the sunrise colors mirrored in the water. Shot from a very low angle, focusing on the reflection. Professional camera mode: Canon EOS R6, RF 50mm f/1.8 STM, ISO 400, 1/500s, f/2.8, reflection, creative, puddle, mirrored sunrise. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Reflection", "Creative", "Puddle", "Running", "Mirrored"]
+    },
+    {
+        "id": 26,
+        "prompt": "A medium shot of the athlete performing a high-knee run in place, her form perfect and energetic. The golden light is strong and warm. Shot at eye level. Professional camera mode: Sony A7R V, FE 35mm f/1.4 GM, ISO 200, 1/1000s, f/2.0, high-knee run, energetic, perfect form. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["High-Knee", "Energetic", "Perfect Form", "Action", "Warm Light"]
+    },
+    {
+        "id": 27,
+        "prompt": "A shot capturing the athlete's profile as she stretches her arms wide, inhaling deeply, a moment of peaceful recovery. The sunrise light is soft and diffused. Shot at eye level, profile view. Professional camera mode: Nikon Z9, NIKKOR Z 85mm f/1.2 S, ISO 100, 1/400s, f/1.4, peaceful recovery, deep breath, soft light. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Recovery", "Peaceful", "Stretching", "Profile", "Soft Light"]
+    },
+    {
+        "id": 28,
+        "prompt": "A close-up of the athlete's hands tying the laces of her unbranded running shoes, emphasizing the preparation ritual. The ground is illuminated by the low sun. Shot from a low angle, focusing on the hands. Professional camera mode: Canon EOS R5, RF 100mm f/2.8 Macro L IS USM, ISO 100, 1/500s, f/4.0, preparation, ritual, tying laces, detail. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Preparation", "Ritual", "Tying Laces", "Close-up", "Detail"]
+    },
+    {
+        "id": 29,
+        "prompt": "A wide shot of the athlete performing a powerful kettlebell swing (implied by the pose and equipment), with the expansive outdoor landscape and sunrise as the backdrop. Shot at eye level, wide perspective. Professional camera mode: Sony A7 IV, FE 24mm f/1.4 GM, ISO 200, 1/1000s, f/5.6, kettlebell swing, powerful action, wide landscape. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Kettlebell", "Powerful", "Wide Shot", "Action", "Landscape"]
+    },
+    {
+        "id": 30,
+        "prompt": "A candid shot of the athlete laughing joyfully while jogging, looking over her shoulder at the camera. The motion blur is subtle. Shot at eye level, medium shot. Professional camera mode: Nikon Z7 II, NIKKOR Z 50mm f/1.2 S, ISO 400, 1/500s, f/1.6, joyful jogging, over the shoulder, candid. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Joyful", "Jogging", "Candid", "Over the Shoulder", "Medium Shot"]
+    },
+    {
+        "id": 31,
+        "prompt": "A low-angle shot emphasizing the athlete's strong silhouette as she performs a handstand or headstand on a simple yoga mat, with the colorful sunrise sky as the background. Shot from a very low angle. Professional camera mode: Canon EOS R6, RF 35mm f/1.8 Macro IS STM, ISO 200, 1/800s, f/4.0, handstand, silhouette, colorful sky. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Handstand", "Silhouette", "Yoga", "Strength", "Colorful Sky"]
+    },
+    {
+        "id": 32,
+        "prompt": "A medium close-up of the athlete's face as she looks up at the sky with a look of peaceful gratitude, the golden light illuminating her features. Shot at eye level. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 100, 1/500s, f/1.4, peaceful gratitude, looking up, golden light. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Gratitude", "Peaceful", "Looking Up", "Golden Light", "Medium Close-up"]
+    },
+    {
+        "id": 33,
+        "prompt": "A shot focusing on the athlete's hands gripping a resistance band as she performs a dynamic exercise, emphasizing the tension and effort. Shot at a tight close-up. Professional camera mode: Nikon Z9, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 200, 1/1000s, f/4.0, resistance band, tension, effort, detail. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Resistance Band", "Tension", "Effort", "Close-up", "Action"]
+    },
+    {
+        "id": 34,
+        "prompt": "A wide shot of the athlete performing a set of high-intensity sprints, captured from a distance, emphasizing her small figure against the vast, open landscape and the rising sun. Shot at eye level, wide perspective. Professional camera mode: Canon EOS R5, RF 16mm f/2.8 STM, ISO 100, 1/2000s, f/8.0, high-intensity, vast landscape, wide shot. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["High Intensity", "Sprints", "Vast Landscape", "Wide Shot", "Small Figure"]
+    },
+    {
+        "id": 35,
+        "prompt": "A close-up of the athlete's ponytail swinging dynamically as she turns her head during a movement, with the golden light catching the hair strands. Shot at a tight close-up, focusing on the hair. Professional camera mode: Sony A7 IV, FE 135mm f/1.8 GM, ISO 400, 1/1000s, f/2.0, dynamic ponytail, hair movement, golden light. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Ponytail", "Dynamic", "Hair Movement", "Close-up", "Golden Light"]
+    },
+    {
+        "id": 36,
+        "prompt": "A shot emphasizing the athlete's strong, determined gaze as she looks over her shoulder, ready to start a new set of exercises. The sunrise light is strong and motivational. Shot at eye level, medium close-up. Professional camera mode: Nikon Z7 II, NIKKOR Z 85mm f/1.8 S, ISO 100, 1/500s, f/2.0, determined gaze, over the shoulder, motivational. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Determined Gaze", "Motivational", "Over the Shoulder", "Strong", "Medium Close-up"]
+    },
+    {
+        "id": 37,
+        "prompt": "A low-angle shot of the athlete performing a powerful, controlled jump squat, with the sunrise light creating a dramatic silhouette and rim light. Shot from a low angle. Professional camera mode: Canon EOS R6, RF 24mm f/1.8 Macro IS STM, ISO 200, 1/1000s, f/4.0, jump squat, powerful, dramatic silhouette. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Jump Squat", "Powerful", "Dramatic", "Silhouette", "Action"]
+    },
+    {
+        "id": 38,
+        "prompt": "A candid shot of the athlete stretching her arms towards the sky, her body language expressing openness and connection with nature. The sunrise colors are soft and beautiful. Shot at eye level, full body. Professional camera mode: Sony A7R V, FE 35mm f/1.4 GM, ISO 100, 1/400s, f/2.8, connection with nature, stretching, openness. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Nature Connection", "Stretching", "Openness", "Candid", "Full Body"]
+    },
+    {
+        "id": 39,
+        "prompt": "A close-up of the athlete's hands and forearms, emphasizing the muscle definition and the subtle sheen of sweat, as she holds a plank. Shot at a tight close-up. Professional camera mode: Nikon Z9, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 200, 1/800s, f/4.0, muscle definition, sweat, plank, close-up. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Muscle Definition", "Sweat", "Plank", "Close-up", "Toned"]
+    },
+    {
+        "id": 40,
+        "prompt": "A wide shot capturing the athlete running along a winding path that leads towards the rising sun, emphasizing the journey and the expansive view. Shot at eye level, wide perspective. Professional camera mode: Canon EOS R5, RF 16mm f/2.8 STM, ISO 100, 1/1000s, f/8.0, winding path, journey, rising sun, wide view. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Journey", "Winding Path", "Running", "Wide Shot", "Expansive"]
+    },
+    {
+        "id": 41,
+        "prompt": "A medium close-up of the athlete's face as she closes her eyes and smiles gently, enjoying the warmth of the sunrise on her skin after a hard workout. Shot at eye level. Professional camera mode: Sony A7 IV, FE 85mm f/1.8, ISO 200, 1/500s, f/1.8, gentle smile, enjoying warmth, post-workout. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Gentle Smile", "Warmth", "Post-Workout", "Medium Close-up", "Peaceful"]
+    },
+    {
+        "id": 42,
+        "prompt": "A shot emphasizing the athlete's strong, determined profile as she performs a final, controlled stretch, with the sun slightly above the horizon. Shot at eye level, profile view. Professional camera mode: Nikon Z7 II, NIKKOR Z 50mm f/1.2 S, ISO 100, 1/500s, f/1.4, determined profile, controlled stretch, final pose. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Determined Profile", "Controlled Stretch", "Final Pose", "Strong", "Action"]
+    },
+    {
+        "id": 43,
+        "prompt": "A shot capturing the athlete's hands giving a thumbs-up gesture with a big, motivational smile, looking directly at the camera. The background is the bright sunrise. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R6, RF 35mm f/1.8 Macro IS STM, ISO 400, 1/500s, f/2.8, thumbs-up, motivational smile, direct gaze. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Thumbs-up", "Motivational Smile", "Direct Gaze", "Positive", "Medium Close-up"]
+    },
+    {
+        "id": 44,
+        "prompt": "A wide shot of the athlete performing a series of rapid, dynamic exercises (e.g., jumping jacks), with the motion slightly blurred to convey intensity. The sunrise light is strong. Shot at eye level, wide perspective. Professional camera mode: Sony A7R V, FE 24mm f/1.4 GM, ISO 200, 1/500s, f/5.6, rapid exercises, motion blur, intensity. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Rapid Exercise", "Motion Blur", "Intensity", "Wide Shot", "Dynamic"]
+    },
+    {
+        "id": 45,
+        "prompt": "A creative shot using the long, dramatic shadow of the athlete performing a high kick or dynamic stretch, with the actual athlete slightly out of focus in the foreground. Shot at a low angle, focusing on the shadow. Professional camera mode: Nikon Z9, NIKKOR Z 50mm f/1.2 S, ISO 100, 1/1000s, f/2.0, long shadow, high kick, creative focus. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Long Shadow", "High Kick", "Creative Focus", "Dynamic", "Low Angle"]
+    },
+    {
+        "id": 46,
+        "prompt": "A shot emphasizing the athlete's strong, determined core and back muscles as she holds a challenging yoga pose (e.g., side plank). The light is even and highlights the muscle definition. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 100, 1/800s, f/2.8, strong core, side plank, muscle definition. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Strong Core", "Side Plank", "Muscle Definition", "Yoga", "Medium Close-up"]
+    },
+    {
+        "id": 47,
+        "prompt": "A candid shot of the athlete laughing while stretching, looking over her shoulder at the camera. Her expression is relaxed and happy. The sunrise light is soft. Shot at eye level, medium shot. Professional camera mode: Sony A7 IV, FE 35mm f/1.4 GM, ISO 400, 1/500s, f/2.0, laughing while stretching, relaxed, happy. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Laughing", "Stretching", "Relaxed", "Happy", "Candid"]
+    },
+    {
+        "id": 48,
+        "prompt": "A shot emphasizing the athlete's strong, determined hands and forearms as she grips the ground during a challenging push-up. The golden light illuminates the ground. Shot at a low angle, tight close-up. Professional camera mode: Nikon Z7 II, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/1000s, f/4.0, strong hands, gripping, push-up, low angle. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Strong Hands", "Gripping", "Push-up", "Close-up", "Low Angle"]
+    },
+    {
+        "id": 49,
+        "prompt": "A wide, motivational shot of the athlete standing tall with arms raised, facing the fully risen sun, a powerful silhouette against the bright sky. The landscape is vast and open. Shot at eye level, wide perspective. Professional camera mode: Canon EOS R5, RF 16mm f/2.8 STM, ISO 100, 1/500s, f/8.0, standing tall, powerful silhouette, vast landscape. Unwanted: other people, visible logos on clothing, city clutter, exaggerated editing.",
+        "tags": ["Standing Tall", "Powerful Silhouette", "Vast Landscape", "Motivational", "Wide Shot"]
+    },
+    {
+        "id": 50,
+        "prompt": "A close-up of the athlete's face as she takes a deep, satisfying breath, eyes closed, after completing her workout. The golden light is soft and warm. Shot at eye level, tight close-up. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 100, 1/400s, f/1.4, deep breath, satisfying, eyes closed, warm light."
+    }
+]

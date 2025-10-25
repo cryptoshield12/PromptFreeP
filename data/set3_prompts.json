@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1,
+        "prompt": "A highly detailed, professional photograph of a confident young professional male in his late 20s, with short styled black hair. He is wearing a crisp white shirt with sleeves neatly rolled to the forearms and dark trousers. He is working intently on a modern, minimalist laptop, with a focused expression and a slight, confident smile. The setting is a bright, modern co-working space with large windows allowing natural daylight to flood the scene. Minimalistic wooden furniture and a professional yet relaxed environment. Shot slightly from the side at desk level, capturing a candid productivity mood. Professional camera mode: Sony A7R V, FE 35mm f/1.4 GM, ISO 100, 1/160s, f/2.0, sharp focus on the face and screen, high dynamic range, clean post-processing. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Businessman", "Productivity", "Co-working", "Professional", "Focused"]
+    },
+    {
+        "id": 2,
+        "prompt": "A medium close-up shot of the young businessman's hands typing rapidly on the laptop keyboard, with a subtle depth of field blurring the background. His rolled white shirt sleeves are prominent. The natural light highlights the texture of his skin and the crispness of his shirt. Shot at desk level. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 200, 1/125s, f/1.8, focus on hands, shallow depth of field, warm color temperature. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Hands", "Typing", "Detail", "Work", "Close-up"]
+    },
+    {
+        "id": 3,
+        "prompt": "A wide shot capturing the young businessman standing by a large window in the co-working space, holding a tablet and gesturing confidently during a virtual meeting (implied by a headset). The cityscape is softly blurred in the background. Shot at eye level. Professional camera mode: Nikon Z9, NIKKOR Z 24-70mm f/2.8 S at 35mm, ISO 100, 1/200s, f/4.0, wide perspective, clean architectural lines, motivational atmosphere. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Virtual Meeting", "Tablet", "Confident", "Wide Shot", "Co-working"]
+    },
+    {
+        "id": 4,
+        "prompt": "A dynamic shot of the young businessman leaning back in his chair, a thoughtful expression on his face, one hand resting on his chin. The natural light creates a strong, defined shadow on one side of his face. Shot at a low angle. Professional camera mode: Leica SL2-S, APO-Summicron-SL 50mm f/2 ASPH., ISO 400, 1/100s, f/2.2, dramatic lighting, thoughtful mood, low angle perspective. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Thoughtful", "Dramatic Light", "Low Angle", "Pensive", "Candid"]
+    },
+    {
+        "id": 5,
+        "prompt": "A candid, medium shot of the young businessman taking a sip of coffee from a minimalist ceramic mug, his eyes still focused on the laptop screen. His short styled hair and professional attire are clearly visible. Shot at eye level. Professional camera mode: Fujifilm GFX 100S, GF 63mm f/2.8 R WR, ISO 100, 1/125s, f/2.8, natural light, clean composition, focus on the action. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Coffee Break", "Candid", "Focused", "Minimalist", "Action"]
+    },
+    {
+        "id": 6,
+        "prompt": "A portrait of the young businessman looking directly at the camera with a warm, genuine smile. The background is a softly blurred, brightly lit co-working space. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 100, 1/160s, f/1.4, maximum bokeh, sharp focus on the eyes, warm portrait. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Portrait", "Smiling", "Warm", "Genuine", "Bokeh"]
+    },
+    {
+        "id": 7,
+        "prompt": "An overhead flat lay shot of the young businessman's desk setup: laptop, minimalist notebook, premium pen, and a small succulent plant. His hands are visible, reaching for the pen. Shot from a perfect overhead angle. Professional camera mode: Sony A7R V, FE 90mm f/2.8 Macro G OSS, ISO 100, 1/60s, f/5.6, flat lay, clean composition, focus on the details. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Flat Lay", "Overhead", "Desk Setup", "Minimalist", "Detail"]
+    },
+    {
+        "id": 8,
+        "prompt": "A shot emphasizing the modern architecture of the co-working space, with the young businessman in the foreground, slightly out of focus, while the clean lines and geometric shapes of the interior are sharp. Shot at a wide angle. Professional camera mode: Nikon Z9, NIKKOR Z 14-30mm f/4 S at 14mm, ISO 200, 1/125s, f/8.0, architectural focus, deep depth of field, modern aesthetic. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Architecture", "Modern", "Wide Angle", "Geometric", "Deep DOF"]
+    },
+    {
+        "id": 9,
+        "prompt": "A dramatic shot of the young businessman silhouetted against the bright window, with a strong rim light defining his profile and the contours of his rolled sleeves. He is looking out at the view. Shot at eye level, backlighting. Professional camera mode: Canon EOS R6, RF 70-200mm f/2.8L IS USM at 100mm, ISO 100, 1/400s, f/4.0, dramatic silhouette, strong rim light, backlighting. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Silhouette", "Dramatic", "Rim Light", "Profile", "Backlighting"]
+    },
+    {
+        "id": 10,
+        "prompt": "A candid shot of the young businessman in mid-conversation, gesturing with his hand, a lively and engaged expression. The co-working space provides a dynamic, blurred backdrop. Shot at eye level, medium close-up. Professional camera mode: Sony A7 IV, FE 85mm f/1.8, ISO 400, 1/250s, f/2.0, candid moment, dynamic pose, engaged expression. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Conversation", "Dynamic", "Engaged", "Candid", "Lively"]
+    },
+    {
+        "id": 11,
+        "prompt": "A shot focusing on the young businessman's confident posture as he stands next to his desk, arms crossed, looking at his laptop screen. The natural light emphasizes his professional appearance. Shot at a low angle, full body. Professional camera mode: Nikon Z7 II, NIKKOR Z 50mm f/1.8 S, ISO 100, 1/160s, f/4.0, confident posture, full body, natural light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Posture", "Confident", "Full Body", "Professional", "Standing"]
+    },
+    {
+        "id": 12,
+        "prompt": "A close-up of the young businessman's focused eyes, with the reflection of the laptop screen visible in his pupils. The rest of the face and background are slightly blurred. Shot at a tight close-up. Professional camera mode: Canon EOS R5, RF 100mm f/2.8 Macro L IS USM, ISO 200, 1/100s, f/3.5, extreme close-up, focus on eyes, screen reflection. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Eyes", "Focused", "Close-up", "Reflection", "Detail"]
+    },
+    {
+        "id": 13,
+        "prompt": "A shot capturing the young businessman in a moment of relief, taking off his glasses and rubbing his eyes, a small, genuine smile on his face. The co-working space is softly lit. Shot at eye level, medium close-up. Professional camera mode: Sony A7R IV, FE 35mm f/1.4 GM, ISO 400, 1/125s, f/2.0, candid, relief, genuine smile. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Relief", "Candid", "Genuine Smile", "Glasses", "Relaxed"]
+    },
+    {
+        "id": 14,
+        "prompt": "A photograph emphasizing the clean, minimalist aesthetic of the co-working space, with the young businessman walking purposefully through the open area, a laptop bag slung over his shoulder. Shot at a wide angle, capturing the movement. Professional camera mode: Nikon Z9, NIKKOR Z 24mm f/1.8 S, ISO 100, 1/250s, f/5.6, movement blur, minimalist aesthetic, wide shot. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Walking", "Minimalist", "Movement", "Purposeful", "Wide Shot"]
+    },
+    {
+        "id": 15,
+        "prompt": "A shot of the young businessman presenting an idea on a whiteboard or glass wall, with his back to the camera, the content on the board clearly visible. His rolled sleeves and focused posture are the main elements. Shot at eye level. Professional camera mode: Canon EOS R6, RF 50mm f/1.8 STM, ISO 400, 1/100s, f/4.0, focus on the whiteboard, presenting, professional setting. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Presenting", "Whiteboard", "Back View", "Idea", "Professional"]
+    },
+    {
+        "id": 16,
+        "prompt": "A medium shot of the young businessman laughing out loud, head tilted back, a moment of genuine joy in the professional setting. The natural light is bright and cheerful. Shot at eye level. Professional camera mode: Sony A7 IV, FE 85mm f/1.8, ISO 400, 1/500s, f/2.0, capturing peak action, cheerful mood, natural laugh. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Laughing", "Joy", "Cheerful", "Candid", "Medium Shot"]
+    },
+    {
+        "id": 17,
+        "prompt": "A creative shot using the reflection of the young businessman working on his laptop in the large glass window, with the cityscape visible in the background. Shot at eye level, focusing on the reflection. Professional camera mode: Nikon Z7 II, NIKKOR Z 35mm f/1.8 S, ISO 200, 1/125s, f/2.8, reflection focus, creative composition, cityscape background. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Reflection", "Cityscape", "Creative", "Working", "Window"]
+    },
+    {
+        "id": 18,
+        "prompt": "A shot emphasizing the young businessman's stylish, professional watch and the rolled cuff of his white shirt as he checks the time, with the laptop screen in the background. Shot at a tight close-up, focusing on the wrist. Professional camera mode: Canon EOS R5, RF 100mm f/2.8 Macro L IS USM, ISO 100, 1/160s, f/4.0, macro detail, focus on watch, professional accessory. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Watch", "Accessory", "Detail", "Close-up", "Stylish"]
+    },
+    {
+        "id": 19,
+        "prompt": "A low-angle shot looking up at the young businessman as he stands and stretches, silhouetted against the bright ceiling lights of the co-working space. Shot from a low perspective. Professional camera mode: Sony A7R V, FE 24mm f/1.4 GM, ISO 400, 1/100s, f/2.8, low angle, stretching, silhouette against light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Stretching", "Low Angle", "Silhouette", "Break", "Dynamic"]
+    },
+    {
+        "id": 20,
+        "prompt": "A candid shot of the young businessman looking down at his phone with a serious, focused expression, one hand in his pocket. The co-working space is softly blurred. Shot at eye level, medium shot. Professional camera mode: Nikon Z9, NIKKOR Z 50mm f/1.2 S, ISO 400, 1/250s, f/1.4, candid, serious expression, focus on phone. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Phone Use", "Serious", "Candid", "Focused", "Medium Shot"]
+    },
+    {
+        "id": 21,
+        "prompt": "A portrait of the young businessman looking thoughtfully to the side, a subtle, pensive expression. The natural light creates a beautiful highlight on his cheekbone. Shot at eye level, profile view. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 100, 1/125s, f/1.2, extreme bokeh, pensive profile, soft light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Pensive", "Profile", "Portrait", "Soft Light", "Thoughtful"]
+    },
+    {
+        "id": 22,
+        "prompt": "A shot capturing the young businessman's hands making notes in a leather-bound journal, with the laptop screen glowing softly in the background. Shot at a medium close-up, focusing on the journal. Professional camera mode: Sony A7 IV, FE 50mm f/1.8, ISO 400, 1/100s, f/2.8, focus on journal, soft glow, detail. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Journaling", "Notes", "Hands", "Leather", "Detail"]
+    },
+    {
+        "id": 23,
+        "prompt": "A wide shot of the co-working space, with the young businessman sitting alone at a large table, emphasizing the space and his solitary focus. Shot at a high angle, wide perspective. Professional camera mode: Nikon Z6 II, NIKKOR Z 20mm f/1.8 S, ISO 100, 1/80s, f/8.0, high angle, wide perspective, solitary focus. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Solitary", "Wide Shot", "High Angle", "Space", "Focused"]
+    },
+    {
+        "id": 24,
+        "prompt": "A shot emphasizing the young businessman's confident, relaxed posture as he leans against a wall, one foot crossed over the other, checking his phone. The light is soft and even. Shot at eye level, full body. Professional camera mode: Canon EOS R5, RF 35mm f/1.8 Macro IS STM, ISO 200, 1/160s, f/4.0, relaxed posture, full body, soft light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Relaxed", "Confident", "Full Body", "Phone Use", "Soft Light"]
+    },
+    {
+        "id": 25,
+        "prompt": "A creative shot using the blurred foreground of a modern light fixture to frame the young businessman working diligently on his laptop. Shot at eye level, using foreground elements for framing. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 400, 1/125s, f/1.4, creative framing, foreground bokeh, diligent work. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Creative", "Framing", "Diligence", "Bokeh", "Modern"]
+    },
+    {
+        "id": 26,
+        "prompt": "A medium close-up of the young businessman's face as he participates in a video call, a natural, engaged smile on his face. The light from the screen illuminates his features. Shot at eye level. Professional camera mode: Nikon Z9, NIKKOR Z 50mm f/1.8 S, ISO 400, 1/100s, f/2.0, video call, engaged smile, screen light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Video Call", "Engaged", "Smiling", "Screen Light", "Medium Close-up"]
+    },
+    {
+        "id": 27,
+        "prompt": "A shot focusing on the young businessman's hand holding a pen and pointing at a specific detail on his laptop screen, emphasizing collaboration or instruction. Shot at a medium close-up. Professional camera mode: Canon EOS R6, RF 50mm f/1.8 STM, ISO 200, 1/160s, f/2.8, focus on the pointing hand, detail on screen, instruction. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Pointing", "Instruction", "Collaboration", "Detail", "Hand"]
+    },
+    {
+        "id": 28,
+        "prompt": "A dramatic, low-key photograph of the young businessman working late, with only the light from his laptop screen illuminating his face and the immediate desk area. The background is dark and moody. Shot at eye level. Professional camera mode: Sony A7 IV, FE 35mm f/1.4 GM, ISO 800, 1/60s, f/1.4, low-key, dramatic, screen light, working late. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Low Key", "Dramatic", "Working Late", "Screen Light", "Moody"]
+    },
+    {
+        "id": 29,
+        "prompt": "A shot capturing the young businessman standing by a window, arms crossed, looking out at the city view with a determined, forward-looking expression. Shot at eye level, full body. Professional camera mode: Nikon Z7 II, NIKKOR Z 85mm f/1.8 S, ISO 100, 1/200s, f/4.0, determined expression, full body, city view. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Determined", "City View", "Standing", "Forward-looking", "Professional"]
+    },
+    {
+        "id": 30,
+        "prompt": "A candid shot of the young businessman taking a quick, refreshing sip from a glass of water, his eyes briefly closed in concentration. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 200, 1/160s, f/1.8, candid, refreshing, concentration. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Refreshing", "Candid", "Water", "Concentration", "Medium Close-up"]
+    },
+    {
+        "id": 31,
+        "prompt": "A wide shot emphasizing the spaciousness and modern design of the co-working space, with the young businessman as a small, focused element working at a desk in the center. Shot at a high angle. Professional camera mode: Sony A7R V, FE 16-35mm f/2.8 GM at 16mm, ISO 100, 1/125s, f/8.0, high angle, spaciousness, modern design. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Spacious", "Modern Design", "Wide Shot", "High Angle", "Focused"]
+    },
+    {
+        "id": 32,
+        "prompt": "A medium close-up of the young businessman's face as he reacts positively to something on his screen, a surprised and pleased expression. Shot at eye level. Professional camera mode: Nikon Z9, NIKKOR Z 85mm f/1.2 S, ISO 400, 1/250s, f/1.4, surprised, pleased, positive reaction. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Positive Reaction", "Surprised", "Pleased", "Medium Close-up", "Expression"]
+    },
+    {
+        "id": 33,
+        "prompt": "A shot focusing on the young businessman's hands shaking hands with an unseen person (implied by the angle), a gesture of successful collaboration or deal-making. Shot at a medium close-up, focusing on the hands. Professional camera mode: Canon EOS R5, RF 35mm f/1.8 Macro IS STM, ISO 200, 1/160s, f/2.8, handshake, collaboration, success. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Handshake", "Success", "Collaboration", "Hands", "Deal"]
+    },
+    {
+        "id": 34,
+        "prompt": "A candid shot of the young businessman looking over his shoulder with a quick, engaging smile, as if interrupted momentarily. The co-working space is softly blurred. Shot at eye level, medium shot. Professional camera mode: Sony A7 IV, FE 50mm f/1.2 GM, ISO 400, 1/250s, f/1.2, engaging smile, over the shoulder, candid. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Engaging", "Over the Shoulder", "Candid", "Smiling", "Soft Focus"]
+    },
+    {
+        "id": 35,
+        "prompt": "A shot emphasizing the texture of the young businessman's short styled black hair and the natural light catching the highlights. His face is in soft focus. Shot at a tight close-up. Professional camera mode: Nikon Z7 II, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/125s, f/2.8, focus on hair texture, tight close-up, natural light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Hair Texture", "Close-up", "Detail", "Natural Light", "Stylish"]
+    },
+    {
+        "id": 36,
+        "prompt": "A dynamic shot of the young businessman walking quickly through the co-working space, a determined look on his face, a sense of urgency. Shot at eye level, capturing the movement. Professional camera mode: Canon EOS R6, RF 24-70mm f/2.8L IS USM at 50mm, ISO 400, 1/500s, f/4.0, motion blur in background, determined walk, urgency. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Dynamic", "Walking", "Urgency", "Determined", "Motion Blur"]
+    },
+    {
+        "id": 37,
+        "prompt": "A shot emphasizing the young businessman's relaxed and comfortable posture as he works on a beanbag chair or a casual seating area in the co-working space. Shot at a low angle, full body. Professional camera mode: Sony A7R V, FE 35mm f/1.4 GM, ISO 200, 1/100s, f/2.8, relaxed posture, casual work, full body. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Relaxed", "Casual Work", "Full Body", "Comfort", "Co-working"]
+    },
+    {
+        "id": 38,
+        "prompt": "A medium close-up of the young businessman's face as he is deep in thought, looking down at his desk, his hand supporting his chin. The natural light creates a soft shadow. Shot at eye level. Professional camera mode: Nikon Z9, NIKKOR Z 85mm f/1.2 S, ISO 100, 1/125s, f/1.4, deep in thought, soft shadow, pensive. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Deep in Thought", "Pensive", "Medium Close-up", "Soft Shadow", "Focused"]
+    },
+    {
+        "id": 39,
+        "prompt": "A shot capturing the young businessman's hand reaching for a cup of coffee, with the background blurred to focus on the action. His rolled sleeve is visible. Shot at a medium close-up. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 400, 1/160s, f/1.6, focus on the reaching hand, action shot, bokeh. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Action", "Reaching", "Coffee", "Hand", "Bokeh"]
+    },
+    {
+        "id": 40,
+        "prompt": "A wide shot emphasizing the modern, high-tech elements of the co-working space (e.g., large screen, clean desk), with the young businessman working seamlessly within the environment. Shot at eye level. Professional camera mode: Sony A7 IV, FE 24mm f/1.4 GM, ISO 100, 1/160s, f/4.0, high-tech, modern environment, wide shot. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["High-Tech", "Modern", "Seamless", "Wide Shot", "Environment"]
+    },
+    {
+        "id": 41,
+        "prompt": "A close-up of the young businessman's face as he is illuminated by the warm, golden light of the setting sun streaming through the window. He is looking directly at the camera with a confident, warm smile. Shot at eye level. Professional camera mode: Nikon Z7 II, NIKKOR Z 85mm f/1.8 S, ISO 200, 1/125s, f/2.0, golden hour, confident smile, warm light. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Golden Hour", "Confident Smile", "Warm Light", "Close-up", "Portrait"]
+    },
+    {
+        "id": 42,
+        "prompt": "A shot capturing the young businessman's hands using a stylus on a large digital drawing tablet, emphasizing creative work or design. His rolled white shirt sleeves are visible. Shot at desk level. Professional camera mode: Canon EOS R6, RF 35mm f/1.8 Macro IS STM, ISO 400, 1/100s, f/2.8, focus on stylus and tablet, creative work, detail. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Stylus", "Digital Tablet", "Creative Work", "Hands", "Design"]
+    },
+    {
+        "id": 43,
+        "prompt": "A candid shot of the young businessman taking a break, looking out the window with a relaxed, contemplative expression. His posture is casual but professional. Shot at eye level, medium shot. Professional camera mode: Sony A7R V, FE 50mm f/1.4 GM, ISO 200, 1/160s, f/2.0, contemplative, relaxed break, candid. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Contemplative", "Break", "Relaxed", "Candid", "Medium Shot"]
+    },
+    {
+        "id": 44,
+        "prompt": "A shot emphasizing the clean, crisp texture of the young businessman's white shirt and the sharp lines of his styled hair. He is looking at his laptop with a focused expression. Shot at a medium close-up. Professional camera mode: Nikon Z9, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/125s, f/4.0, focus on shirt texture, sharp detail, focused expression. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Texture", "Crisp Shirt", "Sharp Detail", "Focused", "Medium Close-up"]
+    },
+    {
+        "id": 45,
+        "prompt": "A creative shot using the blurred foreground of a modern office plant to frame the young businessman working on his laptop, creating a sense of depth and natural integration. Shot at eye level. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 200, 1/100s, f/1.4, creative framing, plant bokeh, natural integration. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Creative", "Plant", "Framing", "Bokeh", "Natural Integration"]
+    },
+    {
+        "id": 46,
+        "prompt": "A shot capturing the young businessman standing and giving a thumbs-up gesture with a big, encouraging smile. The co-working space is bright and positive. Shot at eye level, medium shot. Professional camera mode: Sony A7 IV, FE 35mm f/1.4 GM, ISO 100, 1/250s, f/2.8, thumbs-up, encouraging, positive, bright. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Thumbs-up", "Encouraging", "Positive", "Smiling", "Medium Shot"]
+    },
+    {
+        "id": 47,
+        "prompt": "A dramatic shot with the young businessman's face partially obscured by the shadow of the window frame, creating a strong, moody contrast. He is looking intently at his laptop. Shot at eye level. Professional camera mode: Nikon Z7 II, NIKKOR Z 50mm f/1.2 S, ISO 400, 1/125s, f/1.8, dramatic shadow, moody contrast, intense focus. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Dramatic", "Shadow", "Moody", "Intense Focus", "Contrast"]
+    },
+    {
+        "id": 48,
+        "prompt": "A shot emphasizing the young businessman's stylish, professional backpack resting on the floor next to his desk, with his feet and the minimalist furniture visible. Shot at a low angle. Professional camera mode: Canon EOS R6, RF 24mm f/1.8 Macro IS STM, ISO 200, 1/100s, f/4.0, low angle, backpack focus, professional accessory. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Backpack", "Stylish", "Accessory", "Low Angle", "Professional"]
+    },
+    {
+        "id": 49,
+        "prompt": "A candid shot of the young businessman taking a phone call, walking away from his desk, a serious but calm expression on his face. The co-working space is a warm blur. Shot at eye level, medium shot. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 400, 1/250s, f/1.4, phone call, serious, calm, candid. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows.",
+        "tags": ["Phone Call", "Serious", "Calm", "Candid", "Walking"]
+    },
+    {
+        "id": 50,
+        "prompt": "A wide, motivational shot of the young businessman raising his fist in a subtle gesture of success or achievement, looking at his laptop screen with a triumphant smile. The bright co-working space is the backdrop. Shot at eye level. Professional camera mode: Nikon Z9, NIKKOR Z 35mm f/1.8 S, ISO 100, 1/160s, f/2.8, triumphant smile, success gesture, motivational. Unwanted: messy background, visible brand logos, other distracting people, harsh shadows."
+    }
+]
