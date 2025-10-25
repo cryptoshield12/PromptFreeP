@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "prompt": "A hyper-detailed, warm-toned lifestyle photograph of a young woman in her mid-20s with long, softly wavy brown hair. She is wearing a cozy white knitted sweater and holds a steaming ceramic cup of coffee gently with both hands, her expression relaxed and content. The setting is a minimalist modern café interior with warm wooden furniture and neutral color tones. Soft natural sunlight streams through a large window, creating subtle, flattering shadows and illuminating her face. Shot at eye level with a slight diagonal angle from a customer's perspective. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 100, 1/125s, f/1.4, cinematic color grading, high dynamic range. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Lifestyle", "Cafe", "Coffee", "Warmth", "Minimalist"]
+    },
+    {
+        "id": 2,
+        "prompt": "An aesthetic, clean photograph capturing the young woman in her white knitted sweater, now looking thoughtfully out the large window of the modern café. The light is soft and diffused, highlighting the texture of her hair and the steam rising from the coffee cup. The background features blurred warm wood textures and a hint of green from a potted plant. Shot at eye level, slightly over the shoulder. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 200, 1/160s, f/1.8, shallow depth of field, warm color palette. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Thoughtful", "Window Light", "Aesthetic", "Bokeh", "Comfort"]
+    },
+    {
+        "id": 3,
+        "prompt": "A close-up, commercially appealing photograph focusing on the young woman's hands gently cupping the coffee mug, with her relaxed face softly blurred in the background. Her wavy brown hair falls over her shoulder. The lighting is golden and soft, emphasizing the cozy texture of the white sweater. Shot at a very slight high angle, tight crop. Professional camera mode: Nikon Z7 II, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/100s, f/2.0, focus on the hands and mug, clean composition. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Close-up", "Hands", "Coffee Mug", "Texture", "Mindfulness"]
+    },
+    {
+        "id": 4,
+        "prompt": "A wide-angle shot capturing the full scene: the young woman sitting comfortably at a small wooden table in the minimalist café. She is reading a book while sipping her coffee, her body language conveying deep relaxation. The large window and the café's neutral, inviting color scheme are prominent. Shot at eye level, wide perspective. Professional camera mode: Fujifilm GFX 100S, GF 45mm f/2.8 R WR, ISO 100, 1/80s, f/4.0, deep depth of field, modern architectural feel. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Wide Shot", "Reading", "Relaxation", "Modern Cafe", "Inviting"]
+    },
+    {
+        "id": 5,
+        "prompt": "A candid, medium shot of the young woman smiling slightly, eyes closed, as she takes a deep breath of the coffee's aroma. The steam is visible and illuminated by a strong side light from the window. Her wavy brown hair is slightly tousled. Shot at eye level, slightly off-center composition. Professional camera mode: Leica SL2-S, APO-Summicron-SL 35mm f/2 ASPH., ISO 400, 1/200s, f/2.2, natural film grain, warm and cozy atmosphere. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Candid", "Aroma", "Smiling", "Cozy", "Warm Vibe"]
+    },
+    {
+        "id": 6,
+        "prompt": "A low-angle shot emphasizing the height of the modern café's window and the soft glow of the sunlight around the young woman's silhouette. She is looking down at her coffee mug, a serene expression on her face. Shot from a low perspective. Professional camera mode: Canon EOS R6, RF 24-70mm f/2.8L IS USM at 24mm, ISO 100, 1/60s, f/5.6, dramatic light and shadow contrast, architectural focus. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Low Angle", "Silhouette", "Architectural", "Serene", "Sunlight"]
+    },
+    {
+        "id": 7,
+        "prompt": "A detailed shot focusing on the texture of the white knitted sweater and the gentle curve of the young woman's neck and jawline as she sips her coffee. Her hair is slightly out of focus. Shot at a medium close-up, profile angle. Professional camera mode: Sony A1, FE 135mm f/1.8 GM, ISO 100, 1/100s, f/1.8, extreme shallow depth of field, focus on sweater texture, high-key lighting. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Texture", "Profile", "Sipping", "High Key", "Detail"]
+    },
+    {
+        "id": 8,
+        "prompt": "A creative shot using the reflection of the young woman and the café interior in the polished wooden table surface. She is writing in a journal, her coffee mug beside her. Soft, warm light from an unseen source. Shot at a low angle, focusing on the reflection. Professional camera mode: Nikon Z6 II, NIKKOR Z 50mm f/1.2 S, ISO 400, 1/80s, f/1.6, soft focus, moody atmosphere. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Reflection", "Writing", "Creative", "Moody", "Journaling"]
+    },
+    {
+        "id": 9,
+        "prompt": "A slightly desaturated, minimalist photograph of the young woman's hands resting on the table, a single coffee mug between them. Her white sweater and the neutral tones of the café create a very clean, calming composition. Shot from an overhead angle. Professional camera mode: Hasselblad X2D 100C, XCD 80mm f/1.9, ISO 64, 1/50s, f/2.8, overhead flat lay style, clean white space. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Overhead", "Desaturated", "Minimalist", "Calm", "Clean"]
+    },
+    {
+        "id": 10,
+        "prompt": "A vibrant, slightly more dynamic shot of the young woman laughing naturally, covering her mouth with one hand, the coffee cup held loosely in the other. The sunlight catches the highlights in her wavy brown hair. Shot at eye level, capturing a moment of genuine joy. Professional camera mode: Canon EOS R3, RF 35mm f/1.8 Macro IS STM, ISO 800, 1/500s, f/2.0, fast shutter speed, vibrant color pop, candid moment. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Vibrant", "Laughing", "Dynamic", "Candid", "Joy"]
+    },
+    {
+        "id": 11,
+        "prompt": "A soft, dreamy photograph of the young woman's profile, with the steam from the coffee creating a slight haze around her face. Her eyes are half-closed, conveying deep relaxation. Shot at eye level, profile view. Professional camera mode: Sony A7 IV, FE 50mm f/1.2 GM, ISO 100, 1/100s, f/1.2, extreme bokeh, dreamy soft focus, high contrast steam. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Dreamy", "Profile", "Steam", "Relaxation", "Soft Focus"]
+    },
+    {
+        "id": 12,
+        "prompt": "A commercial shot of the young woman using a tablet or laptop on the wooden table, with the coffee mug prominently placed in the foreground, slightly out of focus. She is focused on her work, but still relaxed. Shot at a 45-degree angle. Professional camera mode: Nikon D850, AF-S NIKKOR 58mm f/1.4G, ISO 200, 1/160s, f/2.8, sharp focus on the woman, subtle foreground bokeh. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Commercial", "Working", "Tablet", "Focus", "Product Placement"]
+    },
+    {
+        "id": 13,
+        "prompt": "A photograph emphasizing the cozy texture of the white knitted sweater, with the young woman's face partially obscured by the large collar. She is looking directly at the camera with a gentle, inviting smile. Shot at a medium close-up. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 100, 1/125s, f/1.2, maximum bokeh, focus on the eyes, inviting gaze. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Cozy", "Knitted Sweater", "Portrait", "Inviting", "Gentle Smile"]
+    },
+    {
+        "id": 14,
+        "prompt": "A warm, high-contrast photograph of the young woman silhouetted by the bright sunlight from the window, with a rim light highlighting the edges of her wavy brown hair and the steam from her coffee. Shot at eye level, backlighting. Professional camera mode: Sony A7S III, FE 35mm f/1.4 GM, ISO 100, 1/400s, f/4.0, strong backlighting, dramatic silhouette, warm tones. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Silhouette", "Backlight", "High Contrast", "Dramatic", "Warm Tones"]
+    },
+    {
+        "id": 15,
+        "prompt": "A detailed, flat lay style shot of the coffee mug, a minimalist notebook, and a pair of reading glasses on the wooden table, with the young woman's hands and sweater sleeve entering the frame from the side. Shot from a perfect overhead angle. Professional camera mode: Hasselblad X2D 100C, XCD 45mm f/3.5, ISO 64, 1/60s, f/5.6, geometric composition, clean flat lay. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Flat Lay", "Overhead", "Notebook", "Clean", "Composition"]
+    },
+    {
+        "id": 16,
+        "prompt": "A shot emphasizing the subtle movement of the young woman adjusting her wavy brown hair, with a soft, content expression. The café background is slightly blurred but still visible. Shot at eye level, medium close-up. Professional camera mode: Nikon Z9, NIKKOR Z 85mm f/1.2 S, ISO 200, 1/250s, f/1.2, sharp focus on the eyes, dynamic pose. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Movement", "Hair", "Content", "Sharp Focus", "Dynamic"]
+    },
+    {
+        "id": 17,
+        "prompt": "A photograph with a shallow depth of field, focusing sharply on the steaming coffee mug in the foreground, with the young woman in her white sweater softly blurred in the background, smiling. Shot at a low angle, emphasizing the mug. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 100, 1/100s, f/1.2, extreme foreground bokeh, high contrast steam. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Shallow DOF", "Foreground Focus", "Coffee", "Smiling", "Bokeh"]
+    },
+    {
+        "id": 18,
+        "prompt": "A shot capturing the young woman looking directly at the camera with a relaxed, confident gaze, her coffee mug held loosely. The background is the warm, sunlit café interior. Shot at eye level, centered composition. Professional camera mode: Sony A7R IV, FE 35mm f/1.4 GM, ISO 100, 1/160s, f/2.0, direct eye contact, clean and modern aesthetic. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Direct Gaze", "Confident", "Modern Aesthetic", "Centered", "Clean"]
+    },
+    {
+        "id": 19,
+        "prompt": "A photograph featuring the young woman's hands typing on a vintage-style mechanical keyboard placed on the wooden café table, with the coffee mug nearby. Her white sweater sleeve is visible. Shot at a medium close-up, focusing on the hands and keyboard. Professional camera mode: Leica M11, APO-Summicron-M 50mm f/2 ASPH., ISO 400, 1/125s, f/2.8, vintage color grading, focus on detail. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Typing", "Vintage Keyboard", "Hands", "Detail", "Work"]
+    },
+    {
+        "id": 20,
+        "prompt": "A shot emphasizing the geometric lines of the modern café architecture, with the young woman as a soft, warm element against the clean, neutral background. She is looking away, lost in thought. Shot at eye level, rule of thirds composition. Professional camera mode: Nikon Z7 II, NIKKOR Z 24-70mm f/4 S at 35mm, ISO 100, 1/80s, f/5.6, architectural lines, clean composition. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Geometric", "Architectural", "Lost in Thought", "Clean", "Rule of Thirds"]
+    },
+    {
+        "id": 21,
+        "prompt": "A warm, intimate photograph of the young woman's face, with her wavy brown hair framing her relaxed expression. She is looking down at her coffee, a slight, peaceful smile visible. Shot at a tight close-up. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 100, 1/100s, f/1.2, soft focus, intimate portrait, warm skin tones. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Intimate", "Close-up", "Peaceful", "Portrait", "Warm Skin Tones"]
+    },
+    {
+        "id": 22,
+        "prompt": "A shot capturing the young woman using her phone (screen off) while holding her coffee, the natural sunlight creating a bright, airy atmosphere. Shot at a medium distance, capturing her posture and the café environment. Professional camera mode: Sony A7 IV, FE 50mm f/1.8, ISO 200, 1/160s, f/2.8, bright and airy, casual moment. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Phone Use", "Casual", "Bright", "Airy", "Posture"]
+    },
+    {
+        "id": 23,
+        "prompt": "A low-angle shot, looking up at the young woman as she takes a sip of her coffee, her eyes slightly closed in enjoyment. The background is the high ceiling and minimalist lighting fixtures of the café. Professional camera mode: Nikon Z6 II, NIKKOR Z 35mm f/1.8 S, ISO 400, 1/125s, f/2.0, low perspective, focus on her expression. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Sipping", "Enjoyment", "Low Perspective", "Expression", "High Ceiling"]
+    },
+    {
+        "id": 24,
+        "prompt": "A photograph with a strong emphasis on the warm, golden light hitting the young woman's wavy brown hair and the wooden table. She is looking out the window, her profile visible. Shot at eye level, profile view. Professional camera mode: Canon EOS R5, RF 85mm f/1.2L USM, ISO 100, 1/100s, f/1.4, strong golden hour lighting, profile portrait. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Golden Hour", "Profile", "Warm Light", "Hair Highlights", "Aesthetic"]
+    },
+    {
+        "id": 25,
+        "prompt": "A creative shot using the steam from the coffee cup to partially obscure the young woman's face, creating a mysterious, cozy atmosphere. She is wearing her white sweater. Shot at a medium close-up. Professional camera mode: Sony A7R V, FE 50mm f/1.4 GM, ISO 200, 1/80s, f/1.8, atmospheric steam, mysterious mood. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Steam", "Mysterious", "Cozy", "Atmospheric", "Creative"]
+    },
+    {
+        "id": 26,
+        "prompt": "A photograph capturing the young woman's hands turning the page of a physical book, with the coffee mug and a small pastry on the table. The focus is on the action of turning the page. Shot at a medium close-up, focusing on the hands. Professional camera mode: Nikon Z7 II, NIKKOR Z 105mm f/2.8 VR S Macro, ISO 100, 1/125s, f/4.0, sharp focus on the page and hands, clean composition. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Reading", "Book", "Hands", "Pastry", "Action Shot"]
+    },
+    {
+        "id": 27,
+        "prompt": "A vibrant, high-key photograph of the young woman looking over the rim of her coffee mug with a playful, content expression. The white sweater blends with the bright, airy café environment. Shot at eye level, medium close-up. Professional camera mode: Canon EOS R6, RF 85mm f/2 Macro IS STM, ISO 400, 1/200s, f/2.8, bright and cheerful, high-key lighting. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Playful", "High Key", "Cheerful", "Coffee", "Vibrant"]
+    },
+    {
+        "id": 28,
+        "prompt": "A shot emphasizing the texture of the wooden table and the subtle reflection of the young woman's face in the dark surface of the coffee. She is looking down, lost in thought. Shot at a low angle, focusing on the coffee surface. Professional camera mode: Sony A7R V, FE 90mm f/2.8 Macro G OSS, ISO 100, 1/80s, f/4.0, focus on the reflection, moody lighting. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Reflection", "Moody", "Texture", "Coffee Surface", "Lost in Thought"]
+    },
+    {
+        "id": 29,
+        "prompt": "A cinematic, slightly darker photograph of the young woman sitting in a cozy corner of the café, illuminated by a single, focused spotlight on her face and the coffee mug. The background fades to deep shadow. Shot at eye level, dramatic lighting. Professional camera mode: Nikon Z9, NIKKOR Z 50mm f/1.2 S, ISO 800, 1/100s, f/1.2, dramatic spotlight effect, cinematic darkness. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Cinematic", "Spotlight", "Dark", "Dramatic", "Cozy Corner"]
+    },
+    {
+        "id": 30,
+        "prompt": "A bright, airy photograph of the young woman stretching her arms above her head with a satisfied yawn, having just finished her coffee. Her wavy brown hair is slightly messy. Shot at eye level, capturing the stretch. Professional camera mode: Canon EOS R5, RF 35mm f/1.8 Macro IS STM, ISO 100, 1/250s, f/2.8, bright and clean, morning light feel. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Stretching", "Yawn", "Morning", "Airy", "Satisfied"]
+    },
+    {
+        "id": 31,
+        "prompt": "A photograph emphasizing the clean, modern lines of the café's interior, with the young woman as a focal point, her white sweater contrasting with the warm wood tones. She is working on a minimalist laptop. Shot at eye level, wide angle. Professional camera mode: Sony A7 IV, FE 24mm f/1.4 GM, ISO 100, 1/160s, f/4.0, architectural focus, clean lines, modern aesthetic. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Modern", "Clean Lines", "Working", "Focal Point", "Architectural"]
+    },
+    {
+        "id": 32,
+        "prompt": "A medium close-up of the young woman looking directly at the camera, her expression one of gentle curiosity. She is holding the coffee mug near her chin. Shot at eye level. Professional camera mode: Nikon Z7 II, NIKKOR Z 85mm f/1.8 S, ISO 200, 1/125s, f/2.0, sharp focus on the eyes, gentle curiosity. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Curiosity", "Gentle", "Portrait", "Coffee", "Medium Close-up"]
+    },
+    {
+        "id": 33,
+        "prompt": "A photograph focusing on the young woman's elegant hands stirring her coffee with a small wooden stirrer. Her white sweater sleeve is visible. Shot at a tight close-up, focusing on the action. Professional camera mode: Canon EOS R5, RF 100mm f/2.8 Macro L IS USM, ISO 100, 1/100s, f/3.5, sharp focus on the stirring action, high detail. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Stirring", "Hands", "Action", "Detail", "Elegant"]
+    },
+    {
+        "id": 34,
+        "prompt": "A shot capturing the young woman's profile as she stares dreamily out the window, the soft sunlight creating a halo effect on her wavy brown hair. The café interior is a warm blur. Shot at eye level, profile. Professional camera mode: Sony A7R V, FE 135mm f/1.8 GM, ISO 100, 1/160s, f/1.8, dreamy bokeh, halo effect, profile view. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Dreamy", "Profile", "Halo Effect", "Sunlight", "Warm Blur"]
+    },
+    {
+        "id": 35,
+        "prompt": "A flat lay shot of the young woman's minimalist accessories (a thin gold ring, a simple watch) resting on the wooden table next to her coffee mug and a small succulent plant. Her sweater sleeve is in the frame. Shot from a perfect overhead angle. Professional camera mode: Hasselblad X2D 100C, XCD 80mm f/1.9, ISO 64, 1/50s, f/4.0, focus on accessories, clean composition. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Flat Lay", "Accessories", "Minimalist", "Overhead", "Succulent"]
+    },
+    {
+        "id": 36,
+        "prompt": "A photograph of the young woman laughing wholeheartedly, her head tilted back slightly, coffee mug held high. The light is bright and cheerful. Shot at eye level, medium close-up. Professional camera mode: Nikon Z9, NIKKOR Z 35mm f/1.4 S, ISO 400, 1/500s, f/2.0, capturing peak action, cheerful mood. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Laughing", "Heartfelt", "Cheerful", "Bright Light", "Dynamic"]
+    },
+    {
+        "id": 37,
+        "prompt": "A shot emphasizing the contrast between the young woman's warm, soft white sweater and the cool, clean lines of the modern café's architecture. She is sitting with perfect posture, looking calmly at the camera. Shot at eye level, medium shot. Professional camera mode: Canon EOS R5, RF 50mm f/1.2L USM, ISO 100, 1/125s, f/2.8, contrast in texture and color, calm posture. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Contrast", "Posture", "Calm", "Modern", "Texture"]
+    },
+    {
+        "id": 38,
+        "prompt": "A photograph capturing the young woman writing a note on a small piece of paper, with her wavy brown hair falling forward. The coffee mug is in the foreground, slightly blurred. Shot at a medium close-up, focusing on the writing. Professional camera mode: Sony A7R IV, FE 85mm f/1.4 GM, ISO 200, 1/100s, f/1.8, focus on the action of writing, soft bokeh. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Writing", "Note", "Action", "Soft Bokeh", "Focused"]
+    },
+    {
+        "id": 39,
+        "prompt": "A creative shot using the blurred foreground of a potted plant or a decorative object to frame the young woman, who is looking contentedly at her coffee mug. Shot at eye level, using foreground elements for framing. Professional camera mode: Nikon Z6 II, NIKKOR Z 50mm f/1.8 S, ISO 400, 1/125s, f/1.8, foreground bokeh, creative framing. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Framing", "Foreground Bokeh", "Content", "Creative", "Plant"]
+    },
+    {
+        "id": 40,
+        "prompt": "A photograph emphasizing the warm, inviting color palette of the café: the wooden table, the neutral walls, and the golden light, with the young woman as the central, cozy element. Shot at a wide angle. Professional camera mode: Canon EOS R6, RF 35mm f/1.8 Macro IS STM, ISO 100, 1/80s, f/4.0, color palette focus, inviting atmosphere. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Color Palette", "Inviting", "Warm", "Wide Angle", "Cozy"]
+    },
+    {
+        "id": 41,
+        "prompt": "A close-up shot of the young woman's face, her eyes closed, a peaceful, meditative expression. The light is soft and even, highlighting her natural light makeup. Shot at a tight close-up. Professional camera mode: Sony A7R V, FE 85mm f/1.4 GM, ISO 100, 1/100s, f/1.4, meditative mood, soft light portrait. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Meditative", "Peaceful", "Close-up", "Soft Light", "Portrait"]
+    },
+    {
+        "id": 42,
+        "prompt": "A photograph capturing the young woman's hands resting on the edge of the large window frame, looking out at a softly blurred cityscape. Her coffee mug is on the table behind her. Shot at eye level, focusing on the hands and the window. Professional camera mode: Nikon Z7 II, NIKKOR Z 24mm f/1.8 S, ISO 200, 1/160s, f/2.8, focus on hands, cityscape bokeh. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Window View", "Hands", "Cityscape Bokeh", "Looking Out", "Relaxed"]
+    },
+    {
+        "id": 43,
+        "prompt": "A shot emphasizing the texture of the white knitted sweater, with the young woman's wavy brown hair partially covering her shoulder. She is looking down, a soft smile on her face. Shot at a medium close-up. Professional camera mode: Canon EOS R5, RF 135mm f/1.8L IS USM, ISO 100, 1/125s, f/1.8, focus on texture, soft smile, shallow depth of field. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Texture", "Soft Smile", "Shallow DOF", "Knitted Sweater", "Warm"]
+    },
+    {
+        "id": 44,
+        "prompt": "A photograph with a clean, high-key aesthetic, capturing the young woman taking a small bite of a minimalist pastry (e.g., a croissant) next to her coffee. She is looking at the camera with a gentle expression. Shot at eye level, medium close-up. Professional camera mode: Sony A7 IV, FE 50mm f/1.2 GM, ISO 100, 1/160s, f/2.0, high-key, clean aesthetic, food element. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["High Key", "Pastry", "Food", "Clean Aesthetic", "Gentle Expression"]
+    },
+    {
+        "id": 45,
+        "prompt": "A creative shot using the shadow cast by the window frame to create a geometric pattern on the young woman's face and the wooden table. She is holding her coffee mug. Shot at eye level, focusing on the shadow play. Professional camera mode: Nikon Z9, NIKKOR Z 85mm f/1.2 S, ISO 200, 1/100s, f/2.8, shadow play, geometric pattern, creative lighting. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Shadow Play", "Geometric", "Creative Lighting", "Coffee", "Pattern"]
+    },
+    {
+        "id": 46,
+        "prompt": "A photograph capturing the young woman using an over-the-ear headphone set (minimalist design) while working on her laptop, emphasizing focus and concentration. Her coffee mug is visible. Shot at a 45-degree angle. Professional camera mode: Canon EOS R6, RF 35mm f/1.8 Macro IS STM, ISO 400, 1/200s, f/2.0, focus and concentration, work aesthetic. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Working", "Headphones", "Concentration", "Focus", "Lifestyle"]
+    },
+    {
+        "id": 47,
+        "prompt": "A warm, slightly grainy photograph of the young woman looking directly at the camera, her face partially obscured by the steam from the coffee mug she holds. Her expression is inviting and warm. Shot at eye level, medium close-up. Professional camera mode: Leica M11, Summilux-M 50mm f/1.4 ASPH., ISO 800, 1/100s, f/1.4, subtle film grain, warm tones, inviting look. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Grainy", "Steam", "Inviting", "Warm Tones", "Close-up"]
+    },
+    {
+        "id": 48,
+        "prompt": "A shot emphasizing the cozy, comfortable atmosphere, with the young woman wrapped slightly in a soft blanket (texture focus) while sitting in the café. She is reading. Shot at eye level, medium shot. Professional camera mode: Sony A7R V, FE 50mm f/1.2 GM, ISO 100, 1/80s, f/1.2, focus on blanket texture, extreme bokeh, comfort. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Cozy", "Blanket", "Comfort", "Reading", "Bokeh"]
+    },
+    {
+        "id": 49,
+        "prompt": "A photograph capturing the young woman's profile as she closes her eyes and tilts her head back slightly, basking in the soft sunlight from the window. The coffee mug is on the table. Shot at eye level, profile view. Professional camera mode: Nikon Z7 II, NIKKOR Z 85mm f/1.8 S, ISO 100, 1/160s, f/2.0, basking in light, serene profile. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Basking", "Sunlight", "Serene", "Profile", "Relaxation"]
+    },
+    {
+        "id": 50,
+        "prompt": "A commercially appealing, clean shot of the young woman looking down at her coffee mug with a gentle, appreciative smile, the warm wooden table and neutral café background visible. Shot at a slight high angle, medium close-up. Professional camera mode: Canon EOS R5, RF 35mm f/1.8 Macro IS STM, ISO 100, 1/125s, f/2.8, commercially clean, appreciative smile. Unwanted: additional people, visible logos, clutter, harsh shadows, distracting reflections, cartoon elements.",
+        "tags": ["Commercially Appealing", "Appreciative", "Clean", "Lifestyle", "Gentle Smile"]
+    }
+]
